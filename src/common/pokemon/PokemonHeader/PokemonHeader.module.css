@@ -1,0 +1,7 @@
+.container {
+  @apply flex items-end justify-start gap-2 text-2xl font-bold capitalize;
+}
+
+.pokemonId {
+  @apply text-base font-light;
+}

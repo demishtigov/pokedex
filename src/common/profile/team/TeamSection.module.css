@@ -1,0 +1,7 @@
+.container {
+  @apply w-full;
+}
+
+.grid {
+  @apply flex flex-col gap-4;
+}
